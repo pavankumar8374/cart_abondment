@@ -1,0 +1,71 @@
+{
+  "+918374161528": {
+    "user": {
+      "name": "Pavan ",
+      "phone": "+918374161528"
+    },
+    "cart": [
+      "Pants",
+      "Shoes",
+      "Pants"
+    ],
+    "consent": true,
+    "conversation": [
+      {
+        "user": "yes"
+      },
+      {
+        "assistant": "Great! I can help with:\n1\ufe0f\u20e3 Answer questions about products\n2\ufe0f\u20e3 Apply discount codes\n3\ufe0f\u20e3 Complete your purchase\nWhat would you like to do?"
+      },
+      {
+        "user": "tell me about the product"
+      },
+      {
+        "assistant": "Okay, you have two pairs of pants and one pair of shoes in your cart.  To tell you more about the products, I need a little more information.  Which product are you interested in learning more about?  The pants or the shoes?  Please tell me the specific name or style if you know it, and I'll find the details for you.\n"
+      }
+    ]
+  },
+  "+916305461508": {
+    "user": {
+      "name": "Pavan ",
+      "phone": "+916305461508"
+    },
+    "cart": [
+      "Pants",
+      "Shoes"
+    ],
+    "consent": true,
+    "conversation": [
+      {
+        "user": "Yes"
+      },
+      {
+        "assistant": "Great! I can help with:\n1\ufe0f\u20e3 Answer questions about products\n2\ufe0f\u20e3 Apply discount codes\n3\ufe0f\u20e3 Complete your purchase\nWhat would you like to do?"
+      },
+      {
+        "user": "Tell me about the product. Like about the quality , quantity, color, size"
+      },
+      {
+        "assistant": "To tell you about the pants and shoes, I need a little more information!  Could you please tell me which pants and shoes you added to your cart?  (e.g., \"the blue linen pants\" or \"the brown leather shoes size 10\").  Knowing the specific items will allow me to give you the most accurate information on quality, quantity, color, and size.\n"
+      },
+      {
+        "user": "What is my name from the data that you have got"
+      },
+      {
+        "assistant": "I don't have access to your personal information, including your name, for privacy and security reasons.  I only see the contents of your abandoned cart.  To help me assist you with your pants and shoes, please tell me more about the specific items.\n"
+      },
+      {
+        "user": "Are there any discounts ?"
+      },
+      {
+        "assistant": "I'd be happy to check for discounts!  To do so accurately, I need to know the specific pants and shoes in your cart (e.g., \"the blue linen pants\" and \"the brown leather shoes size 10\"). Once I have that information, I can see if any applicable discounts are available.\n"
+      },
+      {
+        "user": "What are the products"
+      },
+      {
+        "assistant": "You have \"Pants\" and \"Shoes\" in your cart. To give you specific details about the color, size, quality, and any available discounts, I need you to tell me more about the exact pants and shoes you selected. For example, \"blue linen pants, size medium\" and \"brown leather shoes, size 10\".\n"
+      }
+    ]
+  }
+}
